@@ -1,0 +1,16 @@
+{
+  "name": "fernapps/clarouy",
+  "description": "Proyecto estilo API para Claro Uruguay",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pablo Fernandez",
+      "email": "ferning98@gmail.com"
+    }
+  ],
+  "require": {
+    "rmccue/requests": "v1.7.0",
+    "ext-simplexml": "*"
+  }
+}
