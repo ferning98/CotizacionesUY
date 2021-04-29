@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "rmccue/requests": "v1.7.0",
+    "rmccue/requests": "v1.8.0",
     "ext-simplexml": "*"
   }
 }
